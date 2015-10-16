@@ -48,12 +48,6 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-		<!-- freemarker -->
-		<dependency>
-			<groupId>org.freemarker</groupId>
-			<artifactId>freemarker</artifactId>
-			<optional>true</optional>
-		</dependency>
 		
 		<!-- LOGGING begin -->
 		<dependency>
@@ -82,11 +76,6 @@
 		<dependency>
 			<groupId>org.assertj</groupId>
 			<artifactId>assertj-core</artifactId>
-		</dependency>
-
-		<dependency>
-			<groupId>org.mockito</groupId>
-			<artifactId>mockito-core</artifactId>
 		</dependency>
 
 	</dependencies>
